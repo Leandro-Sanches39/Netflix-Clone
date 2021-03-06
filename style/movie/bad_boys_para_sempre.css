@@ -41,10 +41,10 @@ header nav a:hover{
     color: #ffffff;
 }
 
-/*filme principal-Mortal Kombat Legends*/
-.filme-principal{
+/*fime Bad Boys Para Sempre*/
+.filme-bad_boys_para_sempre{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-principal.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-bad_boys_para_sempre.jpg');
     height: 460px;
     background-size: cover;
     display: flex;
@@ -53,13 +53,13 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.filme-principal .descricao{
+.filme-bad_boys_para_sempre .descricao{
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
-.filme-principal .titulo{
-    margin-top: 25%;
+.filme-bad_boys_para_sempre .titulo{
+    margin-top: 35%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 
@@ -91,7 +91,7 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.filme-principal .container{
+.filme-bad_boys_para_sempre .container{
     width: 70%;
 }
 

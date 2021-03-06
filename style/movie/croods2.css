@@ -41,10 +41,10 @@ header nav a:hover{
     color: #ffffff;
 }
 
-/*filme principal-Mortal Kombat Legends*/
-.filme-principal{
+/*fime Os Croods 2: Uma Nova Era*/
+.filme-croods2{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-principal.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-croods_2.jpg');
     height: 460px;
     background-size: cover;
     display: flex;
@@ -53,12 +53,12 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.filme-principal .descricao{
+.filme-croods2 .descricao{
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
-.filme-principal .titulo{
+.filme-croods2 .titulo{
     margin-top: 25%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
@@ -91,7 +91,7 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.filme-principal .container{
+.filme-croods2 .container{
     width: 70%;
 }
 
