@@ -45,7 +45,7 @@ header nav a:hover{
 /*filme principal*/
 .serie-cobrakai{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa-cobrakai.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/img-series/capa-cobrakai.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

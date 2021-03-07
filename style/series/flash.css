@@ -45,7 +45,7 @@ header nav a:hover{
 /*serie The Flash*/
 .serie-flash{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa-flash.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/img-series/capa-flash.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

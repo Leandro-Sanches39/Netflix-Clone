@@ -44,7 +44,7 @@ header nav a:hover{
 /*serie Breaking Bad: A Química do Mal*/
 .serie-breaking_bad{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa-breaking_bad.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/img-series/capa-breaking_bad.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

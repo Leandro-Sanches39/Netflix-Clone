@@ -44,7 +44,7 @@ header nav a:hover{
 /*serie La Casa de Papel*/
 .serie-la_casa_de_papel{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa-la_casa_de_papel.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/img-series/capa-la_casa_de_papel.jpg');
     height: 460px;
     background-size: cover;
     display: flex;
