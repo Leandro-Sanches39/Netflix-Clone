@@ -44,7 +44,7 @@ header nav a:hover{
 /*filme Vingadores Guerra Infinita*/
 .filme-vingadores_guerra_infinita{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-vingadores_guerra_infinita.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/movies/capa-vingadores_guerra_infinita.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

@@ -44,7 +44,7 @@ header nav a:hover{
 /*fime principal-A Vida em um ano*/
 .filme-a_vida_em_um_ano{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-a_vida_em_um_ano.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/movies/capa-a_vida_em_um_ano.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

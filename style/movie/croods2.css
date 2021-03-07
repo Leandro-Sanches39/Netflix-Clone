@@ -44,7 +44,7 @@ header nav a:hover{
 /*fime Os Croods 2: Uma Nova Era*/
 .filme-croods2{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-croods_2.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/movies/capa-croods_2.jpg');
     height: 460px;
     background-size: cover;
     display: flex;

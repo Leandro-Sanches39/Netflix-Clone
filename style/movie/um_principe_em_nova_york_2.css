@@ -44,7 +44,7 @@ header nav a:hover{
 /*filme Um Príncipe em Nova York 2*/
 .filme-um_principe_em_nova_york_2{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/movies/capa-um_principe_em_nova_york_2.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/movies/capa-um_principe_em_nova_york_2.jpg');
     height: 460px;
     background-size: cover;
     display: flex;
