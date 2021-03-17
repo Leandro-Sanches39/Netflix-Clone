@@ -41,10 +41,10 @@ header nav a:hover{
     color: #ffffff;
 }
 
-/*Documentário O Dilema Das Redes*/
-.documentario-o_dilema_das_redes{
+/*Documentário Terras Brasileiras*/
+.documentario-terras_brasileiras{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/documentary/capa-o_dilema_das_redes.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../../img/documentary/capa-terras_brasileiras.jpg');
     height: 460px;
     background-size: cover;
     display: flex;
@@ -53,13 +53,13 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.documentario-o_dilema_das_redes .descricao{
+.documentario-terras_brasileiras .descricao{
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
-.documentario-o_dilema_das_redes .titulo{
-    margin-top: 25%;
+.documentario-terras_brasileiras .titulo{
+    margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 
@@ -91,7 +91,7 @@ header nav a:hover{
     margin-left: 20px;
 }
 
-.documentario-o_dilema_das_redes .container{
+.documentario-terras_brasileiras .container{
     width: 70%;
 }
 
